@@ -16,8 +16,16 @@ defineProps({});
             >
           </div>
         </div>
+        <img src="https://www.ufro.cl/index.php/normas-corporativas/30-logo-ufro-azul-horizontal/file" alt="">
       </div>
     </nav>
   </header>
 </template>
 
+
+<style>
+img {
+  width: 12%;
+
+}
+</style>
